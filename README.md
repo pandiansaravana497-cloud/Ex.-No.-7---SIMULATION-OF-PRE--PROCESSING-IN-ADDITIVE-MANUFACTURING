@@ -44,9 +44,20 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![WhatsApp Image 2026-03-16 at 10 26 47 AM](https://github.com/user-attachments/assets/4c66185b-9fc4-4380-ad72-b2bc5bbc7851)
 
-### Name:
-### Register Number:
+![WhatsApp Image 2026-03-16 at 10 26 51 AM](https://github.com/user-attachments/assets/eccecea6-14d3-43a1-995f-d240872fed73)
+
+![WhatsApp Image 2026-03-16 at 10 27 04 AM](https://github.com/user-attachments/assets/f1661670-cde5-4af3-a1a9-114f7f98a51b)
+
+![WhatsApp Image 2026-03-16 at 10 27 17 AM](https://github.com/user-attachments/assets/5a8b32b1-ce7b-46e3-a862-75d848538e24)
+
+
+
+
+
+### Name:PON SARAVANA PANDIAN B
+### Register Number:212225230207
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
